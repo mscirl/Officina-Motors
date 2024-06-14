@@ -1,0 +1,42 @@
+@import url('style.css');
+
+section {
+    justify-content: space-between;
+}
+
+form {
+    max-width: 500px;
+}
+
+form button {
+    max-width: 125px;
+}
+
+.form-campo {
+    margin-bottom: 16px;
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+}
+
+.form-campo input,
+.form-campo textarea {
+    width: 150%;
+    display: block;
+    padding: 8px;
+    font-size: 16px;
+}
+
+.form-campo textarea {
+    resize: none;
+    height: 120px;
+}
+
+img {
+    height: 470px;
+    margin-left: 220px;
+}
+
+

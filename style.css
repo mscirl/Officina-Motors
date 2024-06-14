@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+html,
+body {
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.container {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header a {
+    color: #fff;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    background-color: #353535;
+    padding-top: 16px;
+    color: #fff;
+}
+
+header > .container {
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 16px;
+}
+
+nav {
+    display: none;
+    background-color: #4b4b4b;
+    padding: 16px 0;
+}
+
+nav li {
+    list-style: none;
+    display: inline;
+    margin-right: 16px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+nav li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.menu_hamburguer {
+    width: 32px;
+    cursor: pointer;
+}
+
+.menu_hamburguer span {
+    height: 2px;
+    width: 100%;
+    background-color: #fff;
+    display: block;
+    margin-bottom: 4px;
+}
+
+#carousel-images img {
+    height: 350px;
+    width: 100%;
+}
+
+.container_flex {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#sobre-a-loja img {
+    max-width: 350px;
+    margin-right: 24px;
+}
+
+section {
+    padding: 48px 0;
+}
+
+section h2 {
+    margin-bottom: 16px;
+}
+
+
+/* LISTAGEM SECTION "EM DESTAQUE" */
+.lista_motocicletas {
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.lista_motocicletas li {
+    list-style: none;
+    max-width: 30%;
+    margin-bottom: 24px;
+}
+
+.lista_motocicletas img{
+    height: 190px;
+    width: 300px;
+}
+
+.lista_motocicletas li h3 {
+    margin: 16px 0;
+} 
+
+.lista_motocicletas p {
+    display: flex;
+    height: 130px;
+    justify-content: center;
+    align-items: center;
+} 
+
+button {
+    display: block;
+    width: 100%;
+    padding: 8px 0;
+    margin-top: 5px;
+    border: none;
+    border-radius: 5px;
+    background-color: #ed5d5d;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn_tenho_interesse {
+    flex-direction: column;
+    align-items:end;
+}
+
+.price {
+    display: block;
+    margin: 15px 0 18px 0;
+}
+
+.price del {
+    color: #b6b3b3;
+}
+
+/* FOOTER */
+footer {
+    background-color: #353535;
+    color: #fff;
+    padding: 16px;
+}
+
+footer ul li {
+    list-style: none;
+}
+
+footer li {
+    margin-left: 16px;
+}
+
+footer img {
+    height: 30px;
+}
+
+footer > .container{
+    justify-content: space-between;
+    align-items: center;
+}
