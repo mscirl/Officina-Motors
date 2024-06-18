@@ -14,18 +14,18 @@
 - **js/messages_pt_BR.min.js**: Mensagens de validação em português para o plugin jQuery Validate.
 
 ## Funcionalidade:
-# Página Principal (index.html)
-# Carrossel de Imagens: Utiliza o plugin Slick Carousel para exibir um carrossel de imagens.
-# Menu Responsivo: Menu que se adapta a diferentes tamanhos de tela e é controlado por um ícone de hambúrguer.
-# Seção Em Destaque: Lista de motocicletas com descrição, preço e botão de interesse.
-# Seção Promoções: Lista de motocicletas em promoção com preços antigos e novos destacados.
-# Página de Contato (contato.html)
-# Formulário de Contato: Formulário para o usuário entrar em contato com a loja, incluindo campos para nome, telefone, e-mail, motocicleta de interesse e mensagem.
-# Validação de Formulário: Utiliza o plugin jQuery Validate para validação de campos do formulário.
+- **Página Principal (index.html)**
+- **Carrossel de Imagens:** Utiliza o plugin Slick Carousel para exibir um carrossel de imagens.
+- **Menu Responsivo:** Menu que se adapta a diferentes tamanhos de tela e é controlado por um ícone de hambúrguer.
+- **Seção Em Destaque:** Lista de motocicletas com descrição, preço e botão de interesse.
+- **Seção Promoções:** Lista de motocicletas em promoção com preços antigos e novos destacados.
+- **Página de Contato (contato.html)**
+- **Formulário de Contato:** Formulário para o usuário entrar em contato com a loja, incluindo campos para nome, telefone, e-mail, motocicleta de interesse e mensagem.
+- **Validação de Formulário:** Utiliza o plugin jQuery Validate para validação de campos do formulário.
 
 ## Instruções de Uso
 - **Clone o Repositório em sua máquina através do git clone:**
-git clone https://github.com/mscirl/Officina-Motors.git
+        git clone https://github.com/mscirl/Officina-Motors.git
 
 ## Abra o Projeto no Navegador:
 # Abra o arquivo index.html diretamente no navegador para visualizar a página principal.
