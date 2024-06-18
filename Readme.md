@@ -24,12 +24,11 @@
 - **Validação de Formulário:** Utiliza o plugin jQuery Validate para validação de campos do formulário.
 
 ### Instruções de Uso
-- **Clone o Repositório em sua máquina através do git clone:**
-        git clone https://github.com/mscirl/Officina-Motors.git
+- **Clone o Repositório em sua máquina através do git clone:** git clone https://github.com/mscirl/Officina-Motors.git
 
 ### Abra o Projeto no Navegador:
-# Abra o arquivo index.html diretamente no navegador para visualizar a página principal.
-# Navegue até contato.html para visualizar a página de contato.
+- **Abra o arquivo index.html diretamente no navegador para visualizar a página principal.**
+- **Navegue até contato.html para visualizar a página de contato.**
 
 ### Estrutura de Arquivos:
 arduino
