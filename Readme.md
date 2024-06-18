@@ -1,6 +1,6 @@
 # Officina Motors Website
 
-**Projeto desenvolvido no decorrer do curso de Eng. Front-End da EBAC. Site de loja fictícia de venda de motos, Officina Motors. O site foi desenvolvido utilizando HTML, CSS e JavaScript e JQuery, com integração de plugins como o Slick Carousel para criar um carrossel de imagens.*
+*Projeto desenvolvido no decorrer do curso de Eng. Front-End da EBAC. Site de loja fictícia de venda de motos, Officina Motors. O site foi desenvolvido utilizando HTML, CSS e JavaScript e JQuery, com integração de plugins como o Slick Carousel para criar um carrossel de imagens.*
 
 ### Estrutura do Projeto:
 - **index.html** : Página principal do site.
@@ -31,8 +31,7 @@
 - **Navegue até contato.html para visualizar a página de contato.**
 
 ### Estrutura de Arquivos:
-arduino
-Copiar código
+
 ebac-motors/
 │
 ├── index.html
