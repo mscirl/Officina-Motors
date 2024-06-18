@@ -32,7 +32,7 @@
 
 ### Estrutura de Arquivos:
 
-ebac-motors/
+Officina-motors
 │
 
 ├── index.html
