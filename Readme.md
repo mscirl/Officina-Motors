@@ -2,7 +2,7 @@
 
 ## Projeto desenvolvido no decorrer do curso de Eng. Front-End da EBAC. Site de loja fictícia de venda de motos, Officina Motors. O site foi desenvolvido utilizando HTML, CSS e JavaScript e JQuery, com integração de plugins como o Slick Carousel para criar um carrossel de imagens.
 
-## Estrutura do Projeto:
+### Estrutura do Projeto:
 - **index.html** : Página principal do site.
 - **contato.html**: Página de contato.
 - **style.css**: Estilos CSS globais para o site.
@@ -13,7 +13,7 @@
 - **js/jquery.validate.min.js**: Plugin jQuery para validação de formulários.
 - **js/messages_pt_BR.min.js**: Mensagens de validação em português para o plugin jQuery Validate.
 
-## Funcionalidade:
+### Funcionalidade:
 - **Página Principal (index.html)**
 - **Carrossel de Imagens:** Utiliza o plugin Slick Carousel para exibir um carrossel de imagens.
 - **Menu Responsivo:** Menu que se adapta a diferentes tamanhos de tela e é controlado por um ícone de hambúrguer.
@@ -23,15 +23,15 @@
 - **Formulário de Contato:** Formulário para o usuário entrar em contato com a loja, incluindo campos para nome, telefone, e-mail, motocicleta de interesse e mensagem.
 - **Validação de Formulário:** Utiliza o plugin jQuery Validate para validação de campos do formulário.
 
-## Instruções de Uso
+### Instruções de Uso
 - **Clone o Repositório em sua máquina através do git clone:**
         git clone https://github.com/mscirl/Officina-Motors.git
 
-## Abra o Projeto no Navegador:
+### Abra o Projeto no Navegador:
 # Abra o arquivo index.html diretamente no navegador para visualizar a página principal.
 # Navegue até contato.html para visualizar a página de contato.
 
-## Estrutura de Arquivos:
+### Estrutura de Arquivos:
 arduino
 Copiar código
 ebac-motors/
