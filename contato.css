@@ -39,4 +39,26 @@ img {
     margin-left: 220px;
 }
 
+/* FOOTER */
+footer {
+    background-color: #353535;
+    color: #fff;
+    padding: 16px;
+}
 
+footer ul li {
+    list-style: none;
+}
+
+footer li {
+    margin-left: 16px;
+}
+
+footer img {
+    height: 30px;
+}
+
+footer > .container{
+    justify-content: space-between;
+    align-items: center;
+}
